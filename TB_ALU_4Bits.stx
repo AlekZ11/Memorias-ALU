@@ -1,0 +1,49 @@
+Release 14.7 - xst P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to /home/alekz/Documentos/Codigos_Videos/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.08 secs
+ 
+--> 
+Parameter xsthdpdir set to /home/alekz/Documentos/Codigos_Videos/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.08 secs
+ 
+--> 
+WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "/home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd" in Library work.
+Entity <ALU_4BITS> compiled.
+ERROR:HDLParsers:812 - "/home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd" Line 43. A value is missing in select.
+ERROR:HDLParsers:164 - "/home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd" Line 44. parse error, unexpected WHEN, expecting LE
+ERROR:HDLParsers:164 - "/home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd" Line 45. parse error, unexpected AND, expecting LE
+ERROR:HDLParsers:164 - "/home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd" Line 46. parse error, unexpected OR, expecting LE
+ERROR:HDLParsers:164 - "/home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd" Line 48. parse error, unexpected PLUS, expecting LE
+ERROR:HDLParsers:164 - "/home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd" Line 49. parse error, unexpected PLUS, expecting LE
+ERROR:HDLParsers:164 - "/home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd" Line 50. parse error, unexpected MINUS, expecting LE
+ERROR:HDLParsers:164 - "/home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd" Line 51. parse error, unexpected MINUS, expecting LE
+ERROR:HDLParsers:1402 - "/home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd" Line 52. Object Cout of mode IN can not be updated.
+ERROR:HDLParsers:804 - "/home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd" Line 53. Size of Y_tmp is different than size of the target.
+ERROR:HDLParsers:1402 - "/home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd" Line 53. Object Yout of mode IN can not be updated.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> 
+
+
+Total memory usage is 469676 kilobytes
+
+Number of errors   :   11 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

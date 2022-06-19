@@ -1,0 +1,7 @@
+V3 3
+FL /home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd 2022/06/19.13:00:44 P.20131013
+EN work/ALU_4BITS 1655661647 \
+      FL /home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ALU_4BITS/Behavioral 1655661648 \
+      FL /home/alekz/Documentos/Codigos_Videos/ALU_4BITS.vhd EN work/ALU_4BITS 1655661647

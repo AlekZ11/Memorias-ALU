@@ -1,0 +1,5 @@
+set -tmpdir "/home/alekz/Documentos/Codigos_Videos/xst/projnav.tmp"
+set -xsthdpdir "/home/alekz/Documentos/Codigos_Videos/xst"
+elaborate
+-ifn TB_ALU_4Bits.prj
+-ifmt mixed
